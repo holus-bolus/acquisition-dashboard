@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facebook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ghl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ldap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/postgres" vcs="Git" />
+  </component>
+</project>
